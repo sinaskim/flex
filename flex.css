@@ -1,0 +1,13 @@
+.flex_container{
+    display : flex;
+    height : 100px;
+    flex-direction : column-reverse;
+    align-items : center;
+}
+.flex_item{
+    display : flex;
+
+    width : 200px;
+    align-items : center;
+    justify-content: center;
+}
